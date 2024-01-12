@@ -52,6 +52,7 @@ nav a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
+  vertical-align: top;
   font-size: 25px;
 }
 
@@ -65,3 +66,17 @@ nav a:hover {
   width: 500px;
 }
 
+
+#clock {
+font-family: 'Amatic SC', sans-serif;
+font-family: 'Hedvig Letters Serif', serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Ubuntu', sans-serif;;
+  color: #4b4949;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  vertical-align: top;
+}
